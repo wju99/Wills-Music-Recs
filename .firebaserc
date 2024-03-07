@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "wills-song-recommender",
+    "staging": "wills-song-recommender"
+  },
+  "targets": {},
+  "etags": {}
+}
